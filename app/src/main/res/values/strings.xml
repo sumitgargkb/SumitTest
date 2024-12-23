@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SumitWork</string>
+
+    <string name="my_basket">My basket</string>
+    <string name="loading">Loading</string>
+    <string name="checkout">Checkout</string>
+    <string name="couple_code">Coupon Code</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="total">Total</string>
+    <string name="go_back">Go Back</string>
+    <string name="home_text">Hello Tony, What fruit salad combo do you want today?</string>
+    <string name="search_text">Search for fruit salad combos</string>
+    <string name="recommended_combo">Recommended Combo</string>
+
+</resources>
